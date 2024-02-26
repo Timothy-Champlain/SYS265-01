@@ -1,1 +1,2 @@
-$HOSTNAME
+
+mgmt01-timothy
